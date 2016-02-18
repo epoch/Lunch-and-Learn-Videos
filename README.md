@@ -3,6 +3,9 @@ Collection of videos that are recommended for team lunch and learns
 
 # Candidates Videos (yet to be watched)
 
+* André Staltz - The introduction to Reactive Programming you've been missing
+  * https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
 * Brad Urani - Immutability (RubyConf 2015) 35 mins
   * http://confreaks.tv/videos/rubyconf2015-changing-the-unchangeable-the-hows-and-whys-of-immutable-data-structures
 
